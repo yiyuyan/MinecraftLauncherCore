@@ -20,8 +20,8 @@ public class MinecraftLauncherCore {
         /*DownloadUtils.Minecraft.downloadMinecraftClient("1.19.2","1.19.2");
         System.out.println("startiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiinnnnnnnnnnnnnnnggggggggggggggggg......................");
         RunUtils.runMinecraft("4096",null,"1.19.2",null,null,"MLC","1.0",null,null,null,false);*/
-        DownloadUtils.Minecraft.downloadMinecraftClient("1.8.9","1.8.9");
-        RunUtils.runMinecraft("2048",null,"1.8.9","E:\\java\\bin\\javaw.exe",null,"MLC","1.0",null,null,null,false);
-        System.out.println("test done!");
+        /*DownloadUtils.Minecraft.downloadMinecraftClient("1.8.9","1.8.9");
+        RunUtils.runMinecraft("2048",null,"1.8.9","E:\\java\\bin\\javaw.exe",null,"MLC","1.0",null,null,null,true);
+        System.out.println("test done!");*/
     }
 }
